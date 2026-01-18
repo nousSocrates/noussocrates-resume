@@ -27,7 +27,7 @@ export default function Hero() {
             color: "primary.main",
           }}
         >
-          nousSocrates
+        Socrates Creativity
         </Typography>
 
         {/* Role */}

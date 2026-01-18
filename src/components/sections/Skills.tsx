@@ -11,6 +11,7 @@ const skillGroups = [
       "CBC / KJSEA",
       "Teacher Training",
       "Music Education",
+      "Creative Arts and Sports"
     ],
   },
   {
@@ -21,9 +22,12 @@ const skillGroups = [
       "JavaScript",
       "TypeScript",
       "React",
-      "Vite",
+      "Vite", 
       "Node.js",
       "MongoDB",
+      "Python", 
+      "Django"
+
     ],
   },
   {
